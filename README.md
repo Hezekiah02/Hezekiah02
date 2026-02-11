@@ -1,5 +1,4 @@
 
->>>>>>> 550c556a5e3d38b6d514fe48a3f65d88bd000efd
 <h1 align="center">Hi 👋, I'm Hezekiah Dennis</h1>
 <h3 align="center">A Computer Science Student @WrightStateUniversity</h3>
 
